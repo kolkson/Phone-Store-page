@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/phone-store-page/static/css/main.872eddb6.chunk.css",
+    "main.js": "/phone-store-page/static/js/main.58cb9997.chunk.js",
+    "main.js.map": "/phone-store-page/static/js/main.58cb9997.chunk.js.map",
+    "runtime-main.js": "/phone-store-page/static/js/runtime-main.27dec341.js",
+    "runtime-main.js.map": "/phone-store-page/static/js/runtime-main.27dec341.js.map",
+    "static/js/2.668892c5.chunk.js": "/phone-store-page/static/js/2.668892c5.chunk.js",
+    "static/js/2.668892c5.chunk.js.map": "/phone-store-page/static/js/2.668892c5.chunk.js.map",
+    "index.html": "/phone-store-page/index.html",
+    "precache-manifest.67e68a6bcbac2041119a58770586c070.js": "/phone-store-page/precache-manifest.67e68a6bcbac2041119a58770586c070.js",
+    "service-worker.js": "/phone-store-page/service-worker.js",
+    "static/css/main.872eddb6.chunk.css.map": "/phone-store-page/static/css/main.872eddb6.chunk.css.map",
+    "static/js/2.668892c5.chunk.js.LICENSE.txt": "/phone-store-page/static/js/2.668892c5.chunk.js.LICENSE.txt",
+    "static/media/a7.jpg": "/phone-store-page/static/media/a7.8c3f39e3.jpg",
+    "static/media/htc.jpg": "/phone-store-page/static/media/htc.3072b587.jpg",
+    "static/media/huawei.jpg": "/phone-store-page/static/media/huawei.1f3a69ac.jpg",
+    "static/media/iphone.jpg": "/phone-store-page/static/media/iphone.f96ba3ba.jpg",
+    "static/media/nova 5t.jpg": "/phone-store-page/static/media/nova 5t.1a21d8ba.jpg",
+    "static/media/p30.jpg": "/phone-store-page/static/media/p30.d324be94.jpg",
+    "static/media/s10.jpg": "/phone-store-page/static/media/s10.35de46b7.jpg",
+    "static/media/s5.jpg": "/phone-store-page/static/media/s5.40673d8a.jpg",
+    "static/media/samsung.jpg": "/phone-store-page/static/media/samsung.1f88097e.jpg",
+    "static/media/xiaomi.jpg": "/phone-store-page/static/media/xiaomi.3d24f65a.jpg",
+    "static/media/y7.jpg": "/phone-store-page/static/media/y7.2c12ddcc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27dec341.js",
+    "static/js/2.668892c5.chunk.js",
+    "static/css/main.872eddb6.chunk.css",
+    "static/js/main.58cb9997.chunk.js"
+  ]
+}
